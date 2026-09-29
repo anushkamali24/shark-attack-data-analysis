@@ -14,7 +14,7 @@ This project presents an end-to-end data analysis of over 100 years of global sh
 ---
 
 ## 📊 Dashboard Preview
-*(Add dashboard screenshot here after uploading to GitHub)*
+![Power BI Dashboard](dashboard/dashboard_screenshot.png)
 
 ---
 
